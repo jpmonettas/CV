@@ -1,0 +1,204 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+
+* Personal Information
+- Name: Juan Pedro Monetta Sanchez
+- Gender: Male
+- Birthdate: 20 October 1983
+- Github: https://github.com/jpmonettas/
+- Currently living in: Uruguay
+- Spanish: Native
+- English: Can speak and write
+- Portuguese: Can understand and barely speak
+
+* General description
+
+  I have been passionately building and writing computer programs for more than 20 years
+  and working professionally as a software developer since 2000.
+
+  Have worked in a big range of applications, areas and contexts, from fully remote distributed teams to
+  single developer projects to big free software community projects.
+
+  Have worked in projects in C, C++, Java, Clojure, JS, Php, CommonLisp, ELisp and Ruby but most of
+  my experience is around the JVM (Java and Clojure) for servers and (JS and ClojureScript) for browsers and node
+  with a good experience on security.
+
+  For the past 11 years I have been trying to do all the work I can using functional programming (if it
+  fits) mainly in Clojure, but have done tons of OO projects.
+
+  Have a strong experience writing automated testing, from unit example based testing to generative testing.
+
+  Regarding platforms, most of my experience is  GNU/Linux and Unix stuff, and regarding projects tooling
+  I'm most used to git, github and jira but have worked with others.
+
+  Recentry has been very interested in decentralized applications over open blockchains like Ethereum and IPFS.
+
+  Never worked professionally but have done stuff for myself in the fields of electronics,
+  low level micro controllers programming, neural networks, computer vision, and more.
+
+* Professional experience
+** (2022-present) FlowStorm
+   
+   I'm currently full time dedicated to [[https://github.com/jpmonettas/flow-storm-debugger/][FlowStorm]], a Clojure and ClojureScript debugger.
+   
+** (2021-2022) SPREAD 4
+
+   Worked in the implementation of [[https://spreadviz.org/][SPREAD 4]], an online tool for visualization of pathogen phylogeographic reconstructions created
+   by a team at the university of Leuven (Belgium).
+
+   Was in charge of the design and implementation of a visualization tool for exploring and animating pathogen phylogeographic data.
+   
+*** Roles: Developer   
+*** Main languages: Clojure, Java, ClojureScript
+
+	
+** (2020-2021) Clash
+
+   Worked at [[https://en.wikipedia.org/wiki/Clash_(app)][Clash]] an American short-form video hosting service and social network
+
+   Helped with the design and implementation of backend (Clojure) and mobile apps (react native with ClojureScript)
+   
+*** Roles: Developer   
+*** Main languages: Clojure, ClojureScript
+
+** (2018-2020) Distric0x (https://district0x.io)
+*** Roles: Developer
+*** Main languages: Clojure, ClojureScript, Solidity
+*** Main platforms: Ethereum, IPFS, Browser
+*** Technical areas:
+    - Decentralized applications
+    - GraphQL apis
+    - Ethereum blockchain events synchronization
+*** Main projects:
+    - All projects listed under district0x organization (https://github.com/district0x)
+** (2011-2017) Infuy (Uruguay)
+*** Roles: Developer, Technical lead, Software architect
+*** Main languages: Clojure, Java, JS
+*** Main platforms: Linux, Solaris Unix
+*** Technical areas
+    - Data systems
+    - Rest apis (Mostly in Clojure and Java, swagger enabled)
+    - ETLs (Mostly in Clojure)
+    - Transpilers
+    - Single page applications (ClojureScript, ReactJS)
+    - Mobile native applications (Android, ReactNative)
+    - Indexing (Apache Lucene, Solr, ElasticSearch)
+    - Databases (MySql, Oracle, Postgres, Redis, Mongo)
+    - Kiosks
+
+*** Main projects
+**** KataPSD - (Uruguay)
+     Photoshop files to Java (Android) and ObjectiveC (IOs) compiler. A project to generate mobile UI code, assets and project from photoshop files
+     using a custom defined language expressed using groups and layers names.
+     The project was composed of the compiler itself, a SPA to fix compilation errors, fine tune the UI, and generate the IOs and Android projects,
+     a REST api to manage entities (users, projects, accounts, payments, etc), queues and JOBS to do async compilation, 2Checkout payments integration.
+     Everything was persisted using MongoDB.
+     Worked in a two members team, from scratch as the main developer.
+     The entire project was written in Clojure and ClojureScript.
+
+**** CarsDirect - InternetBrands (United States)
+     New and Used cars leads capture and processing system.
+     Worked as a developer mainly in a big Java core (big team, multiple projects deployed on multiple clusters) for
+     processing and selling different kinds of cars selling leads. Big Spring based core with different
+     projects connected by queues which process leads from various sources in different ways.
+
+**** Oferton - (Uruguay)
+     Java core for processing, indexing products from external systems using Solr and exposing them with a Web front end
+     for giving users different kinds of searching options together with a custom related products recommendations system.
+     As part of a 3 members dev team started the project from scratch.
+
+**** Atlas - (Nigeria)
+     NodeJs core and JS mobile app for sending money between users in Africa.
+     As part of a 5 members team started the project from scratch.
+
+**** Auxidata - Uruguay
+     ETL process entirely in Clojure written to conciliate cars insurance information from different sources.
+
+**** Life Cinemas - (Uruguay)
+     Worked as software architect, tech lead and developer in a complete redesign, implementation and deploy of a cinemas chain systems as
+     part of a 6 members team.
+     This included a rest api core, web application, Android and IOs mobile apps (didn't worked on those), backoffice, kiosks systems and DB.
+     Some technologies used in this project where : Clojure, Java, Hibernate, Spring,  JS, ClojureScript, ReactJS, MySQL, Redis, Swagger.
+
+**** Agendador - (Chile)
+     Java core and Clojurescript SPA to process, conciliate and manage work orders received from other systems via an Oracle ESB.
+     As part of a 4 members team started the project from scratch.
+
+** (2010-2011) TATA Consultancy Services (Uruguay)
+*** Roles: Developer and Technical lead
+*** Main projects
+**** Price Waterhouse Cooper CFO direct - (Tampa USA)
+     Developing and maintaining and enhancing internal J2EE applications with Spring and Struts over WebLogic AS.
+     Worked with HP Quality Center for project tracking and Perforce for source visioning.
+     Also helped maintaining an IBM Lotus Notes internal application.
+
+** (2007-2010) GSoft (Uruguay)
+*** Roles: Developer and Technical lead
+*** Main projects
+**** GNU/Linux servers operations
+     Was responsible for creating and maintaining small data center with application servers, mail servers, file sharing and printing
+     servers.
+
+**** OCA Debitos automaticos (Montevideo, Uruguay)
+
+     Worked as application maintainer in a Java system that makes an interface between OCA credit card and it's automatic debit customers systems using struts running on AIX Unix.
+
+**** FastSolutions (Sao Paulo, Brasil)
+     Worked in a two members team developing a php framework for creating reports for a credit card processing company.
+
+**** Mercury Health Solutions (Montevideo, Uruguay)
+     Worked as a developer and designer in the re implementation/migration of a big Health care institution system
+     from Sybase Power Builder to J2EE over Glassfish AS.
+
+**** Precisa
+     Worked as part of a 5 members team to develop a Java application from scratch to enable Uruguayan enterprises
+     to manage their social contribution documents.
+
+**** MasterCard and Visa certified Access Control System (ACS) for Jenvic (Sao Paulo, Brasil)
+     The project consists of a Java implementation and certification of two components of the Visa and Master Card 3DSecure protocol.
+     An ACS (Access Control Server) and the MPI (Merchant Plugin Interface)
+
+
+** (2003-2004) Vision App. Tec. Montevideo (Uruguay)
+*** Roles: Developer
+*** Main projects
+**** Gambling game infrastructure
+     Developing infrastructure for Ingenico z80 POS using C and Perl, C++ and Qt for servers GUIs
+     using extreme programming (XP) as 30 members team methodology.
+
+** (2000-2001) Hospital Regional Salto (Uruguay)
+*** Roles: Developer
+*** Main projects
+    Mainly working in hospital backoffice applications using Visual Fox Pro and DBFs.
+
+* Side projects and opensource contributions
+  - Created [[https://github.com/jpmonettas/flow-storm-debugger/][FlowStorm]], a Clojure and ClojureScript debugger 
+  - Created [[https://github.com/jpmonettas/clograms][Clograms]], Clojure[Script] source code diagrams
+  - Created [[https://github.com/jpmonettas/clindex][Clindex]], a Clojure[Script] source file indexer. 
+  - Created [[https://github.com/jpmonettas/magic-sheet][Magic Sheet]], create magic sheets to improve your Clojure[Script] repl experience
+  - Created [[https://github.com/jpmonettas/re-mount-module-browser][Re-mount module browser]], static clojurescipt source code analyzer. Index and explore various aspects of your clojurescript projects
+  - Created [[https://github.com/jpmonettas/smart-view][Smart View]], visualize and explore your solidity smart contracts
+  - Created [[https://github.com/jpmonettas/inspectable][Inspectable]], experimental support tool for working with clojure.spec
+  - Created [[https://github.com/jpmonettas/pretty-spec][Pretty-Spec]], a clojure.spec form pretty printer for Clojure and ClojureScript.
+  - Created [[https://github.com/jpmonettas/reagent-flowgraph][reagent-flowgraph]], a reagent component for laying out tree nodes in 2D space. 
+  - Created [[https://github.com/jpmonettas/clj-tree-layout][clj-tree-layout]], a library for laying out tree nodes in 2D space for Clojure and ClojureScript
+  - Created [[https://github.com/jpmonettas/events-pipes][Events pipes]], a event hub and monitor to help monitor a distributed application in real time (currently being use in production). 
+  - Created A music sharing and social network that was implemented using the full Clojure[Script] stack:
+    Created [[https://github.com/jpmonettas/mambobox-mobile][MamboBox Mobile]](ClojureScript, Re-Frame, React Native)
+    Created [[https://github.com/jpmonettas/mambobox-core][MamboBox Rest API]](Ring, Swagger, Compojure, Components) and Datomic as the DB.
+  - Created [[https://github.com/jpmonettas/xray][xray]] experimental macros for debugging and understanding clojure code flow. 
+  - Co-created Communities, a geo localized social network and chat system (never released) that made heavy use of Clojure core.async.
+  - [[https://github.com/jpmonettas/web-extractor][(Web Extractor)]], a site scrapping DSL in CommonLisp 
+  - A site scrapping DSL rewritten in Clojure [[https://github.com/jpmonettas/clj-scraper][(Clj-scraper)]]
+  - Contributed to Cider (Clojure development environment for Emacs) [[https://github.com/clojure-emacs/cider/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Ajpmonettas+][(Pull requests)]]
+  - Contributed to Cider-nrepl [[https://github.com/clojure-emacs/cider-nrepl/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Ajpmonettas+][(Pull Requests)]]
+
+* Academic
+
+- System Analyst Universitario Autónomo del Sur (1998-2002) (Montevideo, Uruguay)
+- Student of Engineering in Computer Science (2003-2007) Facultad de Ingeniería de la UDELAR (Montevideo, Uruguay)
+
+* Non computer related
+
+I love making and hacking things so when I find time and inspiration I enjoy woodworking, bread making, and electronics.
+Also enjoy a lot hanging out with friends, salsa and tango dancing, and also rollerblading.
