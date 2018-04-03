@@ -1,3 +1,6 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+
 * Personal Information
 - Name: Juan Pedro Monetta Sanchez
 - Gender: Male
@@ -131,10 +134,13 @@
 * Side projects and opensource contributions
   - A developer tool I created last year ([[https://github.com/jpmonettas/inspectable][Inspectable]])
   - A clojure.spec form pretty printer for Clojure and ClojureScript. ([[https://github.com/jpmonettas/pretty-spec][Pretty-Spec]])
-  - A event hub and monitor to help monitor a distributed application in real time [[https://github.com/jpmonettas/events-pipes][Events pipes]]
+  - A reagent component for laying out tree nodes in 2D space. [[https://github.com/jpmonettas/reagent-flowgraph][reagent-flowgraph]]
+  - A library for laying out tree nodes in 2D space for Clojure and ClojureScript. [[https://github.com/jpmonettas/clj-tree-layout][clj-tree-layout]]
+  - A event hub and monitor to help monitor a distributed application in real time. [[https://github.com/jpmonettas/events-pipes][Events pipes]]
   - A music sharing and social network (not yet released) that is implemented using the full Clojure[Script] stack: 
     [[https://github.com/jpmonettas/mambobox-mobile][MamboBox Mobile]](ClojureScript, Re-Frame, React Native)
     [[https://github.com/jpmonettas/mambobox-core][MamboBox Rest API]](Ring, Swagger, Compojure, Components) and Datomic as the DB.
+  - Macros for debugging and understanding clojure code flow. [[https://github.com/jpmonettas/xray][xray]]
   - A geo localized social network and chat system (never released) that made heavy use of Clojure core.async.
   - A site scrapping DSL in CommonLisp [[https://github.com/jpmonettas/web-extractor][(Web Extractor)]]
   - A site scrapping DSL rewritten in Clojure [[https://github.com/jpmonettas/clj-scraper][(Clj-scraper)]]
