@@ -8,7 +8,7 @@
 - Email: jpmonettas@gmail.com
 - Github: https://github.com/jpmonettas/
 - Currently living in: Uruguay
-- Spanish: Native 
+- Spanish: Native
 - English: Can speak and write
 - Portuguese: Can understand and barely speak
 
@@ -16,26 +16,43 @@
 
   I have been passionately building and writing computer programs for more than 20 years
   and working professionally as a software developer since 2000.
-  Have worked in a big range of applications, areas and contexts, from fully remote teams to
+
+  Have worked in a big range of applications, areas and contexts, from fully remote distributed teams to
   single developer projects to big free software community projects.
+
   Have worked in projects in C, C++, Java, Clojure, JS, Php, CommonLisp, ELisp and Ruby but most of
-  my experience is around the JVM (Java and Clojure) for servers and (JS and ClojureScript) for browsers
+  my experience is around the JVM (Java and Clojure) for servers and (JS and ClojureScript) for browsers and node
   with a strong experience on security.
-  For the past 6 years I have been trying to do all the work I can using functional programming paradigm (if it 
+
+  For the past 6 years I have been trying to do all the work I can using functional programming paradigm (if it
   fits) mainly in Clojure, but have done tons of OO projects.
+
   Have a strong experience writing automated testing, from unit example based testing to generative testing.
-  Regarding platforms, most of my experience is  GNU/Linux and Unix stuff, and regarding projects tooling 
+
+  Regarding platforms, most of my experience is  GNU/Linux and Unix stuff, and regarding projects tooling
   I'm most used to git, github and jira but have worked with others.
+
+  Recentry has been very interested in decentralized applications over open blockchains like Ethereum and IPFS.
+
   Never worked professionally but have done stuff for myself in the fields of electronics,
   low level micro controllers programming, neural networks, computer vision, and more.
-  
-* Professional experience
 
+* Professional experience
+** (2018-present) Distric0x (https://district0x.io)
+*** Roles: Developer
+*** Main languages: Clojure, ClojureScript, Solidity
+*** Main platforms: Ethereum, IPFS, Browser
+*** Technical areas:
+    - Decentralized applications
+    - GraphQL apis
+    - Ethereum blockchain events synchronization
+*** Main projects:
+    - All projects listed under district0x organization (https://github.com/district0x)
 ** (2011-2017) Infuy (Uruguay)
 *** Roles: Developer, Technical lead, Software architect
 *** Main languages: Clojure, Java, JS
 *** Main platforms: Linux, Solaris Unix
-*** Technical areas 
+*** Technical areas
     - Data systems
     - Rest apis (Mostly in Clojure and Java, swagger enabled)
     - ETLs (Mostly in Clojure)
@@ -50,7 +67,7 @@
 **** KataPSD - (Uruguay)
      Photoshop files to Java (Android) and ObjectiveC (IOs) compiler. A project to generate mobile UI code, assets and project from photoshop files
      using a custom defined language expressed using groups and layers names.
-     The project was composed of the compiler itself, a SPA to fix compilation errors, fine tune the UI, and generate the IOs and Android projects, 
+     The project was composed of the compiler itself, a SPA to fix compilation errors, fine tune the UI, and generate the IOs and Android projects,
      a REST api to manage entities (users, projects, accounts, payments, etc), queues and JOBS to do async compilation, 2Checkout payments integration.
      Everything was persisted using MongoDB.
      Worked in a two members team, from scratch as the main developer.
@@ -58,7 +75,7 @@
 
 **** CarsDirect - InternetBrands (United States)
      New and Used cars leads capture and processing system.
-     Worked as a developer mainly in a big Java core (big team, multiple projects deployed on multiple clusters) for 
+     Worked as a developer mainly in a big Java core (big team, multiple projects deployed on multiple clusters) for
      processing and selling different kinds of cars selling leads. Big Spring based core with different
      projects connected by queues which process leads from various sources in different ways.
 
@@ -68,11 +85,11 @@
      As part of a 3 members dev team started the project from scratch.
 
 **** Atlas - (Nigeria)
-     NodeJs core and JS mobile app for sending money between users in Africa. 
+     NodeJs core and JS mobile app for sending money between users in Africa.
      As part of a 5 members team started the project from scratch.
 
 **** Auxidata - Uruguay
-     ETL process entirely in Clojure written to conciliate cars insurance information from different sources. 
+     ETL process entirely in Clojure written to conciliate cars insurance information from different sources.
 
 **** Life Cinemas - (Uruguay)
      Worked as software architect, tech lead and developer in a complete redesign, implementation and deploy of a cinemas chain systems as
@@ -96,12 +113,12 @@
 *** Roles: Developer and Technical lead
 *** Main projects
 **** GNU/Linux servers operations
-     Was responsible for creating and maintaining small data center with application servers, mail servers, file sharing and printing 
+     Was responsible for creating and maintaining small data center with application servers, mail servers, file sharing and printing
      servers.
 
 **** OCA Debitos automaticos (Montevideo, Uruguay)
-     
-     Worked as application maintainer in a Java system that makes an interface between OCA credit card and it's automatic debit customers systems using struts running on AIX Unix. 
+
+     Worked as application maintainer in a Java system that makes an interface between OCA credit card and it's automatic debit customers systems using struts running on AIX Unix.
 
 **** FastSolutions (Sao Paulo, Brasil)
      Worked in a two members team developing a php framework for creating reports for a credit card processing company.
@@ -110,9 +127,9 @@
      Worked as a developer and designer in the re implementation/migration of a big Health care institution system
      from Sybase Power Builder to J2EE over Glassfish AS.
 
-**** Precisa 
-     Worked as part of a 5 members team to develop a Java application from scratch to enable Uruguayan enterprises 
-     to manage their social contribution documents. 
+**** Precisa
+     Worked as part of a 5 members team to develop a Java application from scratch to enable Uruguayan enterprises
+     to manage their social contribution documents.
 
 **** MasterCard and Visa certified Access Control System (ACS) for Jenvic (Sao Paulo, Brasil)
      The project consists of a Java implementation and certification of two components of the Visa and Master Card 3DSecure protocol.
@@ -122,7 +139,7 @@
 ** (2003-2004) Vision App. Tec. Montevideo (Uruguay)
 *** Roles: Developer
 *** Main projects
-**** Gambling game infrastructure 
+**** Gambling game infrastructure
      Developing infrastructure for Ingenico z80 POS using C and Perl, C++ and Qt for servers GUIs
      using extreme programming (XP) as 30 members team methodology.
 
@@ -132,12 +149,15 @@
     Mainly working in hospital backoffice applications using Visual Fox Pro and DBFs.
 
 * Side projects and opensource contributions
+  - Create magic sheets to improve your Clojure[Script] repl experience ([[https://github.com/jpmonettas/magic-sheet][Magic Sheet]])
+  - Static clojurescipt source code analyzer. Index and explore various aspects of your clojurescript projects ([[https://github.com/jpmonettas/re-mount-module-browser][Re-mount module browser]])
+  - Visualize and explore your solidity smart contracts ([[https://github.com/jpmonettas/smart-view][Smart View]])
   - A developer tool I created last year ([[https://github.com/jpmonettas/inspectable][Inspectable]])
   - A clojure.spec form pretty printer for Clojure and ClojureScript. ([[https://github.com/jpmonettas/pretty-spec][Pretty-Spec]])
   - A reagent component for laying out tree nodes in 2D space. [[https://github.com/jpmonettas/reagent-flowgraph][reagent-flowgraph]]
   - A library for laying out tree nodes in 2D space for Clojure and ClojureScript. [[https://github.com/jpmonettas/clj-tree-layout][clj-tree-layout]]
   - A event hub and monitor to help monitor a distributed application in real time. [[https://github.com/jpmonettas/events-pipes][Events pipes]]
-  - A music sharing and social network (not yet released) that is implemented using the full Clojure[Script] stack: 
+  - A music sharing and social network (not yet released) that is implemented using the full Clojure[Script] stack:
     [[https://github.com/jpmonettas/mambobox-mobile][MamboBox Mobile]](ClojureScript, Re-Frame, React Native)
     [[https://github.com/jpmonettas/mambobox-core][MamboBox Rest API]](Ring, Swagger, Compojure, Components) and Datomic as the DB.
   - Macros for debugging and understanding clojure code flow. [[https://github.com/jpmonettas/xray][xray]]
@@ -147,13 +167,12 @@
   - Cider (Clojure development environment for Emacs) [[https://github.com/clojure-emacs/cider/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Ajpmonettas+][(Pull requests)]]
   - Cider-nrepl [[https://github.com/clojure-emacs/cider-nrepl/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Ajpmonettas+][(Pull Requests)]]
 
-* Academic 
+* Academic
 
 - System Analyst Universitario Autónomo del Sur (1998-2002) (Montevideo, Uruguay)
 - Student of Engineering in Computer Science (2003-2007) Facultad de Ingeniería de la UDELAR (Montevideo, Uruguay)
 
 * Non computer related
 
-I love making and hacking things so when I find time and inspiration I enjoy woodworking, bread making, and electronics. 
+I love making and hacking things so when I find time and inspiration I enjoy woodworking, bread making, and electronics.
 Also enjoy a lot hanging out with friends, salsa and tango dancing.
-
