@@ -149,6 +149,8 @@
     Mainly working in hospital backoffice applications using Visual Fox Pro and DBFs.
 
 * Side projects and opensource contributions
+  - Clograms, Clojure[Script] source code diagrams [[https://github.com/jpmonettas/clograms][Clograms]]
+  - Clindex, a Clojure[Script] source file indexer. [[https://github.com/jpmonettas/clindex][Clindex]]
   - Create magic sheets to improve your Clojure[Script] repl experience ([[https://github.com/jpmonettas/magic-sheet][Magic Sheet]])
   - Static clojurescipt source code analyzer. Index and explore various aspects of your clojurescript projects ([[https://github.com/jpmonettas/re-mount-module-browser][Re-mount module browser]])
   - Visualize and explore your solidity smart contracts ([[https://github.com/jpmonettas/smart-view][Smart View]])
