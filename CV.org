@@ -43,7 +43,7 @@
    
 ** (2021-2022) SPREAD 4
 
-   Worked in the implementation of [[https://spreadviz.org/][SPREAD 4]], an online tool for visualization of pathogen phylogeographic reconstructions created
+   Worked in the implementation of [[https://spreadviz.org/][SPREAD 4]]([[https://github.com/phylogeography/spread][github]]), an online tool for visualization of pathogen phylogeographic reconstructions created
    by a team at the university of Leuven (Belgium).
 
    Was in charge of the design and implementation of a visualization tool for exploring and animating pathogen phylogeographic data.
