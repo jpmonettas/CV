@@ -6,47 +6,56 @@
 - Gender: Male
 - Birthdate: 20 October 1983
 - Github: https://github.com/jpmonettas/
-- Currently living in: Uruguay
+- Currently living in: Montevideo, Uruguay
 - Spanish: Native
-- English: Can speak and write
+- English: Fluid
 - Portuguese: Can understand and barely speak
 
 * General description
 
-  I have been passionately building and writing computer programs for more than 20 years
+  I have been passionately building and writing computer programs for more than 25 years
   and working professionally as a software developer since 2000.
 
-  Have worked in a big range of applications, areas and contexts, from fully remote distributed teams to
+  Have worked in a big range of applications areas and contexts, from fully remote distributed teams to
   single developer projects to big free software community projects.
 
-  Have worked in projects in C, C++, Java, Clojure, JS, Php, CommonLisp, ELisp and Ruby but most of
+  Worked in projects in C, C++, Java, Clojure, JS, Php, CommonLisp, ELisp and Ruby but most of
   my experience is around the JVM (Java and Clojure) for servers and (JS and ClojureScript) for browsers and node
   with a good experience on security.
 
-  For the past 11 years I have been trying to do all the work I can using functional programming (if it
-  fits) mainly in Clojure, but have done tons of OO projects.
+  For the past 13 years I have been focusing mostly on functional programming (if it
+  fits) mainly in Clojure, but have done tons of imperative and object oriented projects.
 
-  Have a strong experience writing automated testing, from unit example based testing to generative testing.
+  I have strong experience writing automated testing, from unit example based testing to generative testing.
 
-  Regarding platforms, most of my experience is  GNU/Linux and Unix stuff, and regarding projects tooling
-  I'm most used to git, github and jira but have worked with others.
+  Regarding platforms, most of my experience is GNU/Linux and Unix stuff. For projects tooling
+  I'm most used to Git, Github and Jira but have worked with others.
 
-  Recentry has been very interested in decentralized applications over open blockchains like Ethereum and IPFS.
+  Regarding application types I have experience working with web and mobile applications (frontend and backend),
+  decentralized applications (mostly Ethereum), dev tooling and compilers.
 
-  Never worked professionally but have done stuff for myself in the fields of electronics,
+  Never worked professionally but as a hobby have played in the fields of electronics,
   low level micro controllers programming, neural networks, computer vision, and more.
 
 * Professional experience
-** (2022-present) FlowStorm
-   
-   I'm currently full time dedicated to [[https://github.com/jpmonettas/flow-storm-debugger/][FlowStorm]], a Clojure and ClojureScript debugger.
-   
+
+** (2022-present) FlowStorm, ClojureStorm and ClojureScriptStorm
+
+   Created and currently maintain [[http://www.flow-storm.org][FlowStorm]], an open source Clojure and ClojureScript omniscient and time-travel debugger.
+
+   Also created and currently maintain [[https://github.com/jpmonettas/clojure][ClojureStorm]] and [[https://github.com/jpmonettas/clojurescript][ClojureScriptStorm]]
+   both forks and extensions of the officials Clojure and ClojureScript compilers. They are extended to emit extra instructions for instrumentation,
+   specially useful with (but not coupled to) FlowStorm.
+
+*** Roles: Creator, Developer   
+*** Main languages: Clojure, Java
+
 ** (2021-2022) SPREAD 4
 
-   Worked in the implementation of [[https://spreadviz.org/][SPREAD 4]]([[https://github.com/phylogeography/spread][github]]), an online tool for visualization of pathogen phylogeographic reconstructions created
-   by a team at the university of Leuven (Belgium).
+   Collaborated with the implementation of [[https://spreadviz.org/][SPREAD 4]]([[https://github.com/phylogeography/spread][github]]), an online tool for visualization of pathogen phylogeographic reconstructions created
+   by a team at the university of Leuven (Belgium), which got [[https://academic.oup.com/ve/article/8/2/veac088/6717755][published]] in Oxford Academic Virus Evolution.
 
-   Was in charge of the design and implementation of a visualization tool for exploring and animating pathogen phylogeographic data.
+   I Was in charge of the design and implementation of a visualization tool for exploring and animating pathogen phylogeographic data.
    
 *** Roles: Developer   
 *** Main languages: Clojure, Java, ClojureScript
@@ -54,9 +63,9 @@
 	
 ** (2020-2021) Clash
 
-   Worked at [[https://en.wikipedia.org/wiki/Clash_(app)][Clash]] an American short-form video hosting service and social network
+   Worked at [[https://en.wikipedia.org/wiki/Clash_(app)][Clash]] an American short-form video hosting service and social network.
 
-   Helped with the design and implementation of backend (Clojure) and mobile apps (react native with ClojureScript)
+   Helped with the design and implementation of the backend services (Clojure) and mobile apps (react native with ClojureScript)
    
 *** Roles: Developer   
 *** Main languages: Clojure, ClojureScript
@@ -173,6 +182,9 @@
 
 * Side projects and opensource contributions
   - Created [[https://github.com/jpmonettas/flow-storm-debugger/][FlowStorm]], a Clojure and ClojureScript debugger 
+  - Created [[https://github.com/jpmonettas/clojure/][ClojureStorm]], a dev compiler, a fork of the official Clojure compiler enhanced with instrumentation
+  - Created [[https://github.com/jpmonettas/clojurescript/][ClojureScriptStorm]], a dev compiler, a fork of the official ClojureScript compiler enhanced with instrumentation
+  - Created [[https://github.com/jpmonettas/cider-storm/][CiderStorm]], an Emacs minor mode for working with FlowStorm and Clojure Cider
   - Created [[https://github.com/jpmonettas/clograms][Clograms]], Clojure[Script] source code diagrams
   - Created [[https://github.com/jpmonettas/clindex][Clindex]], a Clojure[Script] source file indexer. 
   - Created [[https://github.com/jpmonettas/magic-sheet][Magic Sheet]], create magic sheets to improve your Clojure[Script] repl experience
@@ -200,5 +212,5 @@
 
 * Non computer related
 
-I love making and hacking things so when I find time and inspiration I enjoy woodworking, bread making, and electronics.
+I love making and hacking things, so when I find time and inspiration I enjoy woodworking, bread making, and electronics.
 Also enjoy a lot hanging out with friends, salsa and tango dancing, and also rollerblading.
