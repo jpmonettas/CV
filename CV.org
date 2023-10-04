@@ -8,7 +8,7 @@
 - Github: https://github.com/jpmonettas/
 - Currently living in: Montevideo, Uruguay
 - Spanish: Native
-- English: Fluid
+- English: Fluent
 - Portuguese: Can understand and barely speak
 
 * General description
@@ -16,8 +16,8 @@
   I have been passionately building and writing computer programs for more than 25 years
   and working professionally as a software developer since 2000.
 
-  Have worked in a big range of applications areas and contexts, from fully remote distributed teams to
-  single developer projects to big free software community projects.
+  Have worked in a wide range of applications areas and contexts, from fully remote distributed teams to
+  single developer projects to large free software community projects.
 
   Worked in projects in C, C++, Java, Clojure, JS, Php, CommonLisp, ELisp and Ruby but most of
   my experience is around the JVM (Java and Clojure) for servers and (JS and ClojureScript) for browsers and node
@@ -44,7 +44,7 @@
    Created and currently maintain [[http://www.flow-storm.org][FlowStorm]], an open source Clojure and ClojureScript omniscient and time-travel debugger.
 
    Also created and currently maintain [[https://github.com/jpmonettas/clojure][ClojureStorm]] and [[https://github.com/jpmonettas/clojurescript][ClojureScriptStorm]]
-   both forks and extensions of the officials Clojure and ClojureScript compilers. They are extended to emit extra instructions for instrumentation,
+   both forks and extensions of the official Clojure and ClojureScript compilers. They are extended to emit extra instructions for instrumentation,
    specially useful with (but not coupled to) FlowStorm.
 
 *** Roles: Creator, Developer   
