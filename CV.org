@@ -41,9 +41,9 @@
 
 ** (2022-present) FlowStorm, ClojureStorm and ClojureScriptStorm
 
-   Created and currently maintain [[http://www.flow-storm.org][FlowStorm]], an open source Clojure and ClojureScript omniscient and time-travel debugger.
+   Created and currently maintain [[http://www.flow-storm.org][FlowStorm]], an open source Clojure and ClojureScript omniscient time-travel debugger.
 
-   Also created and currently maintain [[https://github.com/jpmonettas/clojure][ClojureStorm]] and [[https://github.com/jpmonettas/clojurescript][ClojureScriptStorm]]
+   Also created and currently maintain all projects under the [[https://github.com/flow-storm][FlowStorm organization]], worth highlighting [[https://github.com/flow-storm/clojure][ClojureStorm]] and [[https://github.com/flow-storm/clojurescript][ClojureScriptStorm]]
    both forks and extensions of the official Clojure and ClojureScript compilers. They are extended to emit extra instructions for instrumentation,
    specially useful with (but not coupled to) FlowStorm.
 
@@ -181,10 +181,11 @@
     Mainly working in hospital backoffice applications using Visual Fox Pro and DBFs.
 
 * Side projects and opensource contributions
-  - Created [[https://github.com/jpmonettas/flow-storm-debugger/][FlowStorm]], a Clojure and ClojureScript debugger 
-  - Created [[https://github.com/jpmonettas/clojure/][ClojureStorm]], a dev compiler, a fork of the official Clojure compiler enhanced with instrumentation
-  - Created [[https://github.com/jpmonettas/clojurescript/][ClojureScriptStorm]], a dev compiler, a fork of the official ClojureScript compiler enhanced with instrumentation
-  - Created [[https://github.com/jpmonettas/cider-storm/][CiderStorm]], an Emacs minor mode for working with FlowStorm and Clojure Cider
+  - Created [[https://github.com/flow-storm/flow-storm-debugger/][FlowStorm]], a Clojure and ClojureScript debugger 
+  - Created [[https://github.com/flow-storm/clojure/][ClojureStorm]], a dev compiler, a fork of the official Clojure compiler enhanced with instrumentation
+  - Created [[https://github.com/flow-storm/clojurescript/][ClojureScriptStorm]], a dev compiler, a fork of the official ClojureScript compiler enhanced with instrumentation
+  - Created [[https://github.com/flow-storm/cider-storm/][CiderStorm]], an Emacs minor mode for working with FlowStorm and Clojure Cider
+  - Created [[https://github.com/flow-storm/hansel/][Hansel]], a Clojure and ClojureScript code instrumentation library
   - Created [[https://github.com/jpmonettas/clograms][Clograms]], Clojure[Script] source code diagrams
   - Created [[https://github.com/jpmonettas/clindex][Clindex]], a Clojure[Script] source file indexer. 
   - Created [[https://github.com/jpmonettas/magic-sheet][Magic Sheet]], create magic sheets to improve your Clojure[Script] repl experience
