@@ -39,16 +39,28 @@
 
 * Professional experience
 
-** (2022-present) FlowStorm, ClojureStorm and ClojureScriptStorm
+** (2022-present) FlowStorm, Clofidence, ClojureStorm and ClojureScriptStorm
 
    Created and currently maintain [[http://www.flow-storm.org][FlowStorm]], an open source Clojure and ClojureScript omniscient time-travel debugger.
 
-   Also created and currently maintain all projects under the [[https://github.com/flow-storm][FlowStorm organization]], worth highlighting [[https://github.com/flow-storm/clojure][ClojureStorm]] and [[https://github.com/flow-storm/clojurescript][ClojureScriptStorm]]
-   both forks and extensions of the official Clojure and ClojureScript compilers. They are extended to emit extra instructions for instrumentation,
+   Also created and currently maintain all projects under the [[https://github.com/flow-storm][FlowStorm organization]], which appart from FlowStorm also hosts
+   projects like [[https://github.com/flow-storm/clojure][Clofidence]], [[https://github.com/flow-storm/clojure][ClojureStorm]], [[https://github.com/flow-storm/clojurescript][ClojureScriptStorm]] and
+   [[https://github.com/flow-storm/cider-storm][CiderStorm]].
+   Being both ClojureStorm and ClojureScriptStorm forks and extensions of the official Clojure and ClojureScript compilers. They are extended to emit extra instructions for instrumentation,
    specially useful with (but not coupled to) FlowStorm.
 
 *** Roles: Creator, Developer   
 *** Main languages: Clojure, Java
+
+** (2022-2023) Untether.AI (https://www.untether.ai/)
+
+   Helped with the implementation of an optimizing compiler tailored to Untether.ai custom micro processors, which were specifically designed for fast and energy efficient
+   neural networks inference.
+   
+*** Roles: developer
+*** Main languages: Clojure
+*** Area: Compilers
+
 
 ** (2021-2022) SPREAD 4
 
